@@ -1,0 +1,16 @@
+table, tr, td{
+    border: 1px solid black;
+    border-radius: 3px; 
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #f5f7fb;
+}
+
+.App{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
